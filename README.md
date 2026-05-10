@@ -39,10 +39,10 @@ VIT Bank Loan Predictor is a software that simulates how a real bank decides whe
 
 ```
 📦 project/
- ┣ 📄 home_loan_predictor.py   → Main application (run this)
- ┣ 📄 loan_data.csv            → Auto-generated training dataset
+ ┣ 📄 AI_loan_eligibility_predictor.py   → Main application (run this)
+ ┣ 📄 loan_data (1).csv            → Auto-generated training dataset
  ┣ 📄 README.md                → This file
- ┗ 📄 Project_Report.md        → Detailed project report
+ ┗ 📄 Group_Project_Report.pdf        → Detailed project report
 ```
 
 ---
@@ -56,7 +56,7 @@ pip install scikit-learn pandas
 
 ### Step 2 — Run the program
 ```
-python home_loan_predictor.py
+python AI_loan_eligibility_predictor.py
 ```
 
 ### Step 3 — Use the menu
@@ -98,7 +98,7 @@ python home_loan_predictor.py
 
 ## 🧠 How the ML Model Works
 
-1. **Dataset is generated** with 3000 realistic records
+1. **Dataset is generated** with 5000 realistic records
 2. A **risk score** is calculated for each record based on real banking rules
 3. Records with risk score ≥ 6 are labelled **Rejected (0)**, others **Approved (1)**
 4. A **Decision Tree** learns patterns from this data
@@ -116,9 +116,12 @@ python home_loan_predictor.py
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+Md Ejaz Uddin (25BAI11103)
+Aanjneya Singh (25BAI10885)
+Priyanshi Prajapati (25BAI10054)
+Shivangi Barthwal (25BAI11395)
+
 BTech 1st Year
-Roll No: [Your Roll No]
 Subject: Fundamentals of AI and ML
 
 
