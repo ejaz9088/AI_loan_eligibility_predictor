@@ -6,7 +6,7 @@ A terminal-based AI-powered loan eligibility system built using Python and Machi
 
 ## 📌 About the Project
 
-VIT Bank Loan Predictor is a software that simulates how a real bank decides whether to approve or reject a customer's loan application. The system uses a **Decision Tree machine learning model** trained on 3000 generated loan records to make predictions based on the applicant's financial profile.
+VIT Bank Loan Predictor is a software that simulates how a real bank decides whether to approve or reject a customer's loan application. The system uses a **Decision Tree machine learning model** trained on 5000 generated loan records to make predictions based on the applicant's financial profile.
 
 ---
 
