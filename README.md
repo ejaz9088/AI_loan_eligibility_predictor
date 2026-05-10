@@ -116,12 +116,12 @@ python AI_loan_eligibility_predictor.py
 
 ## 👨‍💻 Author
 
-Md Ejaz Uddin (25BAI11103)
-Aanjneya Singh (25BAI10885)
-Priyanshi Prajapati (25BAI10054)
-Shivangi Barthwal (25BAI11395)
+Md Ejaz Uddin (25BAI11103), 
+Aanjneya Singh (25BAI10885), 
+Priyanshi Prajapati (25BAI10054), 
+Shivangi Barthwal (25BAI11395), 
 
-BTech 1st Year
+BTech 1st Year, 
 Subject: Fundamentals of AI and ML
 
 
