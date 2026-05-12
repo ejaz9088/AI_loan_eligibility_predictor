@@ -42,7 +42,7 @@ VIT Bank Loan Predictor is a software that simulates how a real bank decides whe
  ┣ 📄 AI_loan_eligibility_predictor.py   → Main application (run this)
  ┣ 📄 loan_data (1).csv            → Auto-generated training dataset
  ┣ 📄 README.md                → This file
- ┗ 📄 Group_Project_Report.pdf        → Detailed project report
+ ┗ 📄 Project_Report_AI_Loan_Eligibility_Predictor.pdf        → Detailed project report
 ```
 
 ---
@@ -118,7 +118,7 @@ python AI_loan_eligibility_predictor.py
 
 Md Ejaz Uddin (25BAI11103), 
 Aanjneya Singh (25BAI10885), 
-Priyanshi Prajapati (25BAI10054), 
+Priyanshi Prajapati (25BAI10054),
 Shivangi Barthwal (25BAI11395), 
 
 BTech 1st Year, 
